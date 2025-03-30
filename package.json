@@ -1,0 +1,20 @@
+{
+  "name": "twgift",
+  "version": "1.0.0",
+  "description": "🧧✨ Library for redeeming True money wallet gift (Thai)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "truemoney",
+    "truewallet"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "luna",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.9"
+  }
+}
